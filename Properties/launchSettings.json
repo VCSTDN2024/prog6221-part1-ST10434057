@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ST10434057_PROG6221_Part1_CyberAwareBot": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
